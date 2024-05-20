@@ -1,0 +1,49 @@
+.demo{
+  background-color: #701f9b;
+  color:rgb(147, 84, 249);
+  margin-left: 30%;
+}
+.demo2{
+  
+  margin-left: 30%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #e04747;
+  }
+
+  button a:hover:not(.active) {
+    background-color: #4134f0;
+  }
+
+  button {
+    float: left;
+  }
+  
+  button a {
+    display: block;
+    color: rgb(236, 14, 188);
+    text-align: center;
+    padding: 14px 16px;
+    
+  }
+  
