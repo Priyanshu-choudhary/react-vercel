@@ -15,6 +15,7 @@ let bool=true;
     }
 
     const increaseAge=()=>{
+        setAge(age+1);
     }
 
     return (
